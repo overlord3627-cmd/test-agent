@@ -1,2 +1,0 @@
-# Disposable Dependabot notification fixture; do not install.
-requests==2.19.1
